@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l2MUEVV1mviDU3kpNSuOYYwHVFktSAYqKODxZFrx7MDci5xGSG2KFIKw0UIFmne8GvfViwPl9Rda1rWWmrW5JA==",
+  "success": true,
+  "projectFilePath": "D:\\repo\\balandin4\\balandin4\\balandin4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ipnnr\\.nuget\\packages\\winforms.datavisualization\\1.9.1\\winforms.datavisualization.1.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}
